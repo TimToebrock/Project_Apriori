@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 options(width = 100)
 library(Rpriori)
 ```
-[![Build Status](https://travis-ci.org/TimToebrock/Rpriori.svg?branch=master)](https://travis-ci.org/TimToebrock/Rpriori)
+[![Build Status](https://travis-ci.org/titoeb/Rpriori.svg?branch=master)](https://travis-ci.org/TimToebrock/Rpriori)
 
 
 # Rpriori
